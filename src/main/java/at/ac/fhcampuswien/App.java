@@ -138,25 +138,25 @@ public class App {
         App exercise1 = new App();
 
         System.out.println("Task 1: Say Hello World");
-        //exercise1.sayHelloWorld();
+        exercise1.sayHelloWorld();
 
         System.out.println("\nTask 2: Hello Robot");
-        //exercise1.helloRobot();
+        exercise1.helloRobot();
 
         System.out.println("\nTask 3: Literals");
-        //exercise1.sumOfLiterals();
+        exercise1.sumOfLiterals();
 
         System.out.println("\nTask 4: Add two Numbers");
-        //exercise1.addTwoNumbers();
+        exercise1.addTwoNumbers();
 
         System.out.println("\nTask 5: Swap two Numbers without using a helper variable");
-        //exercise1.swapTwoNumbers();
+        exercise1.swapTwoNumbers();
 
         System.out.println("\nTask 6: Compare two Numbers");
-        //exercise1.compareTwoNumbers();
+        exercise1.compareTwoNumbers();
 
         System.out.println("\nTask 7: Rating Sales Person");
-        //exercise1.ratingSalesPerson();
+        exercise1.ratingSalesPerson();
 
         System.out.println("\nTask 8: Commission Rate");
         exercise1.getCommissionRate();
